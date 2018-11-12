@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeForces/ForcesTableViewController.swift"
+            timestampString = "563716316.582796"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ForcesTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.infoData.getter : Swift.Array&lt;CodeForces.forces&gt;"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510686.666262"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.infoData.setter : Swift.Array&lt;CodeForces.forces&gt;"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510686.670435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.init(style: __C.UITableViewStyle) -&gt; CodeForces.ForcesTableViewController"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510686.672695"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CodeForces.ForcesTableViewController"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510686.674974"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CodeForces.ForcesTableViewController&gt;"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510686.676981"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeForces/ForcesTableViewController.swift"
+            timestampString = "563716316.583321"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "infoData"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.infoData.getter : Swift.Array&lt;CodeForces.forces&gt;"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510710.317605"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.infoData.setter : Swift.Array&lt;CodeForces.forces&gt;"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510710.320181"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.init(style: __C.UITableViewStyle) -&gt; CodeForces.ForcesTableViewController"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510710.322642"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CodeForces.ForcesTableViewController"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510710.325406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CodeForces.ForcesTableViewController&gt;"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510710.3280081"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeForces/ForcesTableViewController.swift"
+            timestampString = "563716316.583599"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ForcesTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.init(style: __C.UITableViewStyle) -&gt; CodeForces.ForcesTableViewController"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510720.662547"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; CodeForces.ForcesTableViewController"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510720.665153"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeForces.ForcesTableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;CodeForces.ForcesTableViewController&gt;"
+                  moduleName = "CodeForces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rithwiksri/CodeForces/CodeForces/ForcesTableViewController.swift"
+                  timestampString = "562510720.667564"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
