@@ -30,4 +30,4 @@ Open the project in XCode and run it on a stimulator or your iOS device.
 
 ## Screenshots
 
-<img href="https://github.com/rithwik27/Codeforces_asoc_project/blob/master/Screenshot%202018-11-13%20at%204.33.14%20PM.png" alt="Optional title">
+<img src="https://github.com/rithwik27/Codeforces_asoc_project/blob/master/Screenshot%202018-11-13%20at%204.33.14%20PM.png" width="200"  />
