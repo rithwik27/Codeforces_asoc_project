@@ -37,7 +37,7 @@ struct forces{
         self.contribution = contribution
         
             }
-    static let basePath="https2://codeforces.com/api/user.info?handles="
+    static let basePath="https://codeforces.com/api/user.info?handles="
     static func info(method:String, completion:@escaping ([forces])-> ()){
         let url = basePath + method
         let request = URLRequest(url: URL(string: url)!)
